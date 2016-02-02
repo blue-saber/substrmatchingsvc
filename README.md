@@ -10,7 +10,6 @@ import (
         "github.com/blue-saber/microsvc"
         "github.com/blue-saber/substrmatchingsvc"
         "github.com/blue-saber/summer"
-        "github.com/blue-saber/webcommrsa"
         "github.com/gin-gonic/gin"
 )
 
